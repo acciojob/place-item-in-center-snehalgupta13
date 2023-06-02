@@ -3,5 +3,5 @@
 .holder{
 	display : flex;
 	justify-content : center;
-	aling-item : center;
+	align-items : center;
 }
